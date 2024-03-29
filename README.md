@@ -1,6 +1,6 @@
 # The Future in Tech
 
-<img src="https://raybo.org/tfit-feed/images/artwork.jpg" width="250">
+<img src="https://i5.walmartimages.com/asr/daab5f95-c022-4fb5-a15a-db24b3f3ecec.0d42fff83707cc476b9c6b9b9eb5f6e3.jpeg?odnHeight=640&odnWidth=640&odnBg=FFFFFF" width="250">
 
 The [Future in Tech](https://go.raybo.org/tfit) is a weekly series powered by [LinkedIn Learning](https://www.linkedin.com/learning/) hosted by Senior Staff Instructor [Ray Villalobos](https://www.linkedin.com/in/planetoftheweb).
 
